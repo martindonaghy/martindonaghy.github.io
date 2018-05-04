@@ -1,0 +1,202 @@
+@font-face {
+    font-family: 'SpartaIcons';
+    font-style: normal;
+    src: url(/resources/themes/fonts/SpartaIcons/spartaicons-webfont.woff) format("woff");
+}
+@font-face {	
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  src: local("Raleway Bold"), local("Raleway-Bold"), url(/resources/themes/fonts/Raleway/Raleway-Bold.woff) format("woff"); }
+	
+/* Open Sans */
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('/resources/themes/fonts/OpenSans/OpenSans-Light-webfont.eot');
+    src: url('/resources/themes/fonts/OpenSans/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-Light-webfont.woff') format('woff'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-Light-webfont.ttf') format('truetype'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-Light-webfont.svg#open_sanslight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('/resources/themes/fonts/OpenSans/OpenSans-LightItalic-webfont.eot');
+    src: url('/resources/themes/fonts/OpenSans/OpenSans-LightItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-LightItalic-webfont.woff') format('woff'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-LightItalic-webfont.ttf') format('truetype'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-LightItalic-webfont.svg#open_sanslight_italic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('/resources/themes/fonts/OpenSans/OpenSans-Regular-webfont.eot');
+    src: url('/resources/themes/fonts/OpenSans/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-Regular-webfont.woff') format('woff'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('/resources/themes/fonts/OpenSans/OpenSans-Italic-webfont.eot');
+    src: url('/resources/themes/fonts/OpenSans/OpenSans-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-Italic-webfont.woff') format('woff'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-Italic-webfont.ttf') format('truetype'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-Italic-webfont.svg#open_sansitalic') format('svg');
+    font-weight: 400;
+    font-style: italic;
+
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('/resources/themes/fonts/OpenSans/OpenSans-Semibold-webfont.eot');
+    src: url('/resources/themes/fonts/OpenSans/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-Semibold-webfont.woff') format('woff'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-Semibold-webfont.ttf') format('truetype'),
+         url('/resources/themes/fonts/OpenSans/OpenSans-Semibold-webfont.svg#open_sanssemibold') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'OpenSans';
+	src: url('/resources/themes/fonts/OpenSans/OpenSans-SemiboldItalic-webfont.eot');
+	src: url('/resources/themes/fonts/OpenSans/OpenSans-SemiboldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+			 url('/resources/themes/fonts/OpenSans/OpenSans-SemiboldItalic-webfont.woff') format('woff'),
+			 url('/resources/themes/fonts/OpenSans/OpenSans-SemiboldItalic-webfont.ttf') format('truetype'),
+			 url('/resources/themes/fonts/OpenSans/OpenSans-SemiboldItalic-webfont.svg#open_sanssemibold_italic') format('svg');
+	font-weight: 500;
+	font-style: italic;
+}
+@font-face {
+    font-family: 'SpartaIcons';
+    font-style: normal;
+    src: url(/resources/themes/fonts/SpartaIcons/spartaicons-webfont.woff) format("woff");
+}
+@font-face {	
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  src: local("Raleway Bold"), local("Raleway-Bold"), url(/resources/themes/fonts/Raleway/Raleway-Bold.woff) format("woff"); 
+}
+body {
+    font-size: 13px;
+    line-height: 24px;
+    /*font-family: OpenSans, sans;*/
+    background: #fff;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+	background-color: #eee;	
+}
+#home {
+    width: auto;
+    margin: 10px 10px;
+    background-color: #fff;
+    padding: 40px;
+    border: 1px solid #bbbbbb;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.top {
+	background: #222 url("/resources/content/brand.png") no-repeat scroll left center;
+	height: 40px;
+	padding: 3px 0 0 115px;
+  color: #fff;
+}
+#topspacer {
+    background-color: #bbb;
+    height: 5px;
+}
+.top .title {
+    float: left;
+    background: transparent;
+    padding: 5px 0 0 10px;
+    font-size: 16px;
+    color: #fff;
+    font-weight: bold;
+}
+.top span {
+	margin-left: 10px;
+}
+#sitelinks {
+	float: right;
+	padding: 5px 10px 0 0;
+	color: #aaa;
+	text-decoration: none;
+	font-weight: 500;
+}
+#sitelinks a {
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+}
+.icon {
+	font-family: SpartaIcons;
+	margin-right: 5px;
+}
+.hugeicon {
+	font-family: SpartaIcons;
+	font-size: 100px;
+	line-height: 87px;
+	color: #1D91CA;
+	display: block;
+}
+.mainnavholder {
+	text-align: center;
+}
+.mainnav  {
+	text-align: center;
+    border: 1px solid #aaaaaa;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+	padding: 20px;
+	margin: 10px;
+	cursor: pointer;
+	margin-bottom: 10px;
+	float: left;
+	width: 300px;
+	display: block;
+	background: #fff;
+	color: #fff;
+	text-decoration: none;
+}
+.mainnav:hover {
+    background: #eee;
+}
+.mainnav span { 
+	padding: 10px;
+}
+.mainnav span.desc { 
+	color: #000;
+}
+.apinav {
+  margin: 10px;
+  cursor: pointer;
+  float: left;
+  text-decoration: none;
+  color: #555555;
+}
+.apinav:hover {
+  background: #eee;
+}
+.apinavholder {
+  padding-left: 5px;
+}
+.apinavholder a {
+  text-decoration:none;
+}
+.apinav .desc {
+  padding-right: 10px;
+}
+
+#footer {
+  padding: 10px 0 0 15px;
+  width: 705px;
+}

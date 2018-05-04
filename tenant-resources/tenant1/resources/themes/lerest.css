@@ -1,0 +1,344 @@
+.le-content .button,
+.le-content input[type="submit"],
+.le-content button {
+    color: #666;
+    font-size: 1.1em;
+    font-weight: normal;
+    padding: 0.6em 1.2em;
+    border: solid 1px #ddd;
+    text-decoration: none;
+    cursor: pointer;
+    background: #efefef;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #f6f6f6 0%, #efefef 100%);
+    /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f6f6f6), color-stop(100%, #efefef));
+    /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #f6f6f6 0%, #efefef 100%);
+    /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #f6f6f6 0%, #efefef 100%);
+    /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #f6f6f6 0%, #efefef 100%);
+    /* IE10+ */
+    background: linear-gradient(to bottom, #f6f6f6 0%, #efefef 100%);
+    /* W3C */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#f6f6f6', endColorstr='#efefef', GradientType=0);
+    /* IE6-9 */
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -khtml-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-transition: 0.2s linear all;
+    -moz-transition: 0.2s linear all;
+    -ms-transition: 0.2s linear all;
+    -o-transition: 0.2s linear all;
+    transition: 0.2s linear all;
+    margin-bottom: 1px;
+    margin-top: 10px;
+    width: auto;
+}
+.le-content .button:hover,
+.le-content input[type="submit"]:hover,
+.le-content button:hover,
+.le-content .toggle-title:hover,
+.le-content .button:focus,
+.le-content input[type="submit"]:focus,
+.le-content button:focus {
+    color: #333;
+    text-decoration: none;
+    border-color: #BBB;
+    -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    background: 0 100%;
+}
+
+.le-content .le-header,
+.le-content .le-profile-header,
+.le-content .le-request-header {
+    line-height: 18px;
+    padding: 0 0 12px 0;
+    color: #386fa2;
+    font-size: 20px;
+}
+
+.le-content .le-profile-services .le-profile-header {
+    padding: 10px 0 12px 0;
+    margin: 10px 0 5px 0;
+}
+
+.le-content .le-sub-header,
+.le-content .le-profile-sub-header {
+	line-height: 18px;
+    padding: 5px 0 5px 0;
+    color: #386fa2;
+}
+
+.le-content .le-profile-details .le-profile-name-details {
+	padding: 10px 0 12px 0;
+	font-size: 25px;
+}
+
+.le-content .le-profile-details .le-profile-details-section {
+	padding: 15px 0 5px 0;
+}
+
+.le-content .le-profile-services {
+	padding: 0 0 5px 0;
+}
+
+.le-content .le-profile-label-value,
+.le-content .le-request-label-value {
+	padding: 0 0 5px 0;
+	display: table;
+}
+
+.le-content .le-label,
+.le-content .le-profile-label,
+.le-content .le-request-label {
+	font-weight: 600;
+	width: 200px;
+	display: table-cell;
+}
+
+.le-content .le-profile-value,
+.le-content .le-request-value {
+	display: table-cell;
+}
+
+.le-content .le-profile-details {
+    width: 55%;
+}
+
+.le-content .le-profile-services  {
+	margin-left: 55%;
+	width: 40%;
+}
+
+.le-content .le-profile-services .le-profile-service  {
+	border: 1px solid #ddd;
+	background-color: lightyellow;
+	padding: 5px 5px 5px 5px;
+	margin-bottom: 5px;
+}
+
+.le-content .le-profile-services .le-profile-services-not-enroled, 
+.le-content .le-profile-services .le-profile-services-not-available,
+.le-content .le-request .le-request-details-not-available,
+.le-content .le-request .le-request-notes-not-available  {
+	border: 1px solid #ddd;
+	background-color: aliceblue;
+	padding: 5px 5px 5px 5px;
+	margin-bottom: 5px;
+}
+
+.le-content .le-profile-services .le-profile-service-enrol  {
+	font-style: italic;
+	padding: 5px 5px 5px 5px;
+}
+
+.le-content .le-profile-details  {
+	float: left;
+}
+
+.le-content .le-request .le-request-list-link {
+	margin-bottom: 15px;
+}
+
+.le-content .label, 
+.le-content label {
+	display: inline-block;
+	margin-bottom: 1em;
+	font-weight: 700;
+	vertical-align: top;
+	width: 200px;
+	color: #555;
+	text-align: left; 
+	font-size: 100%;
+}
+
+.le-content .header2 {
+	display: none;
+}
+
+.le-content ul, 
+.le-content ol {
+	list-style: none;
+	list-style-image: none;
+	margin: 0;
+	padding: 0;
+}
+
+.le-content li {
+	margin-bottom: 5px;
+}
+
+.le-content .le-request-list li:hover, 
+.le-content .le-history-request-list li:hover {
+	background-color: #eee;
+}
+
+.le-content .le-request-title, 
+.le-content .le-history-list .le-request-text {
+	color: #245b8e;
+}
+
+.le-content .le-request-item {
+	cursor: pointer;
+}
+
+.le-content .le-request-note-details .le-request-note-content {
+	border: 1px solid #ddd;
+	padding-left:10px;
+}
+
+.le-content .floatRight {
+	float: right;
+}
+
+.le-content .right {
+	text-align: right;
+}
+
+.le-content .le-request-status-text {
+	text-transform: capitalize;
+}
+
+.le-content .le-history-list .le-channel {
+	font-weight: bold;
+}
+
+.le-content .le-request-list .le-request-date, 
+.le-content .le-history-list .le-history-date, 
+.le-content .le-request-list .le-request-closure, 
+.le-content .le-request-details .le-request-note-created {
+	font-style: italic;
+	font-size: small;
+	color: #999;
+}
+
+.le-content .le-request-list .le-stat-closed,
+.le-content .le-history-request-list .le-stat-closed {
+	background: url(/lerestresources/content/closed-tick.png) no-repeat 10px 10px;
+	padding-left: 45px;
+	display: block;
+	background-color: #e2e2e2;
+}
+
+.le-content .le-request-list .le-stat-open,
+.le-content .le-history-request-list .le-stat-open {
+	background: url(/lerestresources/content/open-timer.png) no-repeat 10px 10px;
+	padding-left: 45px;
+	display: block;
+	background-color: white;
+}
+
+.le-content .le-history-list>ul>li, 
+.le-content .le-history-request-list, 
+.le-content .le-request-item {
+	display: block;
+	overflow: hidden;
+	text-decoration: none;
+	border: 1px solid #cfcfcf;
+	padding: 10px;
+}
+
+.le-content .le-history-request-list .le-request-item {
+	border: none;
+	xpadding: 0px; /* TODO - FIX THIS PADDING */
+}
+
+.le-content .le-history-request-list .le-stat-closed {
+	border: 1px solid #cfcfcf;
+}
+
+.le-content .le-history-request-list {
+	margin: 5px;
+} 
+
+.le-content .ui-accordion .ui-accordion-content {
+    padding: 20px;
+}
+
+.le-content .le-auth-2fa-setup {
+    border-bottom: 1px solid #eeeeee;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+.le-content .le-auth-2fa-checkcode #code,
+.le-content .le-auth-2fa-sendsms #number {
+    padding: 6px;
+}
+
+.le-content .le-message, 
+.le-content .le-error-message {
+	border: 1px solid;
+	margin: 10px 0px 20px 0px;
+	padding: 10px 10px 10px 10px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	color: #D8000C;
+	background-color: #FFBABA;
+	font-weight: normal;
+}
+
+.le-content .le-message {
+ 	color: #9F6000;
+ 	background-color: #FEEFB3; 
+}
+
+.le-content .le-error-message {
+	color: #D8000C;
+	background-color: #FFBABA; 	
+}
+
+.le-content .le-field-error-message {
+	color: #D8000C;
+}
+
+.le-content .le-field-message {
+	color: #9F6000;
+}
+
+.le-content .le-lock {
+    display: none;
+    z-index: 1001;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    background-color: #000000;
+    filter: alpha(Opacity=10);
+    opacity: 0.1;
+    padding-top: 0px;
+    font-weight: bold;
+}
+
+.le-content .le-lock-msg {
+    z-index: 2000;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    padding: 2px;
+    width: 100%;
+    text-align: center;
+}
+
+@media only screen and (max-width:768px) {
+	.le-content .le-profile-details  {
+		float: none;
+	}
+	
+	.le-content .le-profile-details {
+		width: auto;
+	}
+
+	.le-content .le-profile-services  {
+		margin-left: 0;
+		width: auto;
+	}
+}
