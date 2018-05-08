@@ -5,3 +5,8 @@
 	font-weight: bold;
 	font-size: 14px;
 }
+
+.header1 {
+	text-transform: capitalize;
+	color: #b8c4cc;
+}
