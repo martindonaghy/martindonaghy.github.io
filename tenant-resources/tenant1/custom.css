@@ -22403,5 +22403,10 @@ and (max-width : 768px)
   {
     height: auto!important;
   }
+  
+  .nav-footer-main .perc-widget {
+	width: 100%;
+	float: none;
+  }  
 }
 /*# sourceMappingURL=main.css.map */
