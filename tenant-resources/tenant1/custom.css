@@ -168,8 +168,8 @@ html, button, input, select, textarea, a, .buttonLink, p, div, label, legend
  */@font-face
 {
   font-family:FontAwesome;
- src:url(https://www.verint.com/web_resources/themes/verint/fonts/fontawesome-webfont.eot?v=4.7.0);
- src:url(https://www.verint.com/web_resources/themes/verint/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format('embedded-opentype'),url(https://www.verint.com/web_resources/themes/verint/fonts/fontawesome-webfont.woff2?v=4.7.0) format('woff2'),url(https://www.verint.com/web_resources/themes/verint/fonts/fontawesome-webfont.woff?v=4.7.0) format('woff'),url(https://www.verint.com/web_resources/themes/verint/fonts/fontawesome-webfont.ttf?v=4.7.0) format('truetype'),url(https://www.verint.com/web_resources/themes/verint/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format('svg');
+ src:url(https://martindonaghy.github.io/tenant-resources/tenant1/fontawesome-webfont.eot?v=4.7.0);
+ src:url(https://martindonaghy.github.io/tenant-resources/tenant1/fontawesome-webfont.eot?#iefix&v=4.7.0) format('embedded-opentype'),url(https://martindonaghy.github.io/tenant-resources/tenant1/fontawesome-webfont.woff2?v=4.7.0) format('woff2'),url(https://martindonaghy.github.io/tenant-resources/tenant1/fontawesome-webfont.woff?v=4.7.0) format('woff'),url(https://martindonaghy.github.io/tenant-resources/tenant1/fontawesome-webfont.ttf?v=4.7.0) format('truetype'),url(https://martindonaghy.github.io/tenant-resources/tenant1/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format('svg');
  font-weight:400;
  font-style:normal;
 }
