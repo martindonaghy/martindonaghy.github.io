@@ -9357,7 +9357,7 @@ pre.widget-instructions h2,pre.widget-instructions h3,pre.widget-instructions h4
 
 .site-logo-main
 {
-  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/Verint-Logo-Blue.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/Verint-Logo-Blue.png);
   background-size: 175px 31px;
   background-position: left center;
 }
@@ -9366,7 +9366,7 @@ pre.widget-instructions h2,pre.widget-instructions h3,pre.widget-instructions h4
 {
   .site-logo-main
   {
-    background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/Verint-Logo-Blue@2x.png);
+    background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/Verint-Logo-Blue@2x.png);
     background-size: 175px 31px;
   }
 }
