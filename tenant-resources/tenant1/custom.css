@@ -1,3 +1,4 @@
+
 *
 {
   margin: 0;
@@ -69,7 +70,7 @@ html, button, input, select, textarea, a, .buttonLink, p, div, label, legend
   border: none;
   padding: 0;
   margin: 0;
-  background-image: url('https://www.verint.com/web_resources/themes/verint/images/Verint-Logo-Blue@2x.png');
+  background-image: url('https://martindonaghy.github.io/tenant-resources/tenant1/Verint-Logo-Blue@2x.png');
   background-repeat: no-repeat;
   background-size: 175px 31px;
   background-position: 32px center;
@@ -167,8 +168,8 @@ html, button, input, select, textarea, a, .buttonLink, p, div, label, legend
  */@font-face
 {
   font-family:FontAwesome;
- src:url(https://www.verint.com/web_resources/themes/verint/fonts/fontawesome-webfont.eot?v=4.7.0);
- src:url(https://www.verint.com/web_resources/themes/verint/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format('embedded-opentype'),url(https://www.verint.com/web_resources/themes/verint/fonts/fontawesome-webfont.woff2?v=4.7.0) format('woff2'),url(https://www.verint.com/web_resources/themes/verint/fonts/fontawesome-webfont.woff?v=4.7.0) format('woff'),url(https://www.verint.com/web_resources/themes/verint/fonts/fontawesome-webfont.ttf?v=4.7.0) format('truetype'),url(https://www.verint.com/web_resources/themes/verint/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format('svg');
+ src:url(https://martindonaghy.github.io/tenant-resources/tenant1/fontawesome-webfont.eot?v=4.7.0);
+ src:url(https://martindonaghy.github.io/tenant-resources/tenant1/fontawesome-webfont.eot?#iefix&v=4.7.0) format('embedded-opentype'),url(https://martindonaghy.github.io/tenant-resources/tenant1/fontawesome-webfont.woff2?v=4.7.0) format('woff2'),url(https://martindonaghy.github.io/tenant-resources/tenant1/fontawesome-webfont.woff?v=4.7.0) format('woff'),url(https://martindonaghy.github.io/tenant-resources/tenant1/fontawesome-webfont.ttf?v=4.7.0) format('truetype'),url(https://martindonaghy.github.io/tenant-resources/tenant1/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format('svg');
  font-weight:400;
  font-style:normal;
 }
@@ -3812,7 +3813,7 @@ html, button, input, select, textarea, a, .buttonLink, p, div, label, legend
   display: inline-block;
   width: 24px;
   height: 24px;
-  background: url(https://www.verint.com/web_resources/themes/verint/images/flags.png) no-repeat;
+  background: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/flags.png) no-repeat;
 }
 
 .flag-gb
@@ -6676,7 +6677,7 @@ img.aligned-right
 .filter-cats
 {
   min-height: 60px;
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/loading.gif);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/loading.gif);
   background-size: 50% 50%;
   background-position: center center;
   background-repeat: no-repeat;
@@ -8571,72 +8572,72 @@ pre.widget-instructions h2,pre.widget-instructions h3,pre.widget-instructions h4
 
 .dtFilterCategoryLinks-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetFilterCategoryLinksBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetFilterCategoryLinksBackground.png);
 }
 
 .dtSection1ColCircleBG-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetSection1ColCircleBGBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetSection1ColCircleBGBackground.png);
 }
 
 .dtSection1ColGraphicBG-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetSection1ColGraphicBGBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetSection1ColGraphicBGBackground.png);
 }
 
 .dtSection2ColCodeAndImage-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetSection2ColCodeAndImageBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetSection2ColCodeAndImageBackground.png);
 }
 
 .dtSection2ColHeadingAndText-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetSection2ColHeadingAndTextBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetSection2ColHeadingAndTextBackground.png);
 }
 
 .dtSection2ColSplitBGs-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetSection2ColSplitBGsBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetSection2ColSplitBGsBackground.png);
 }
 
 .dtSectionBasic-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetSectionBasicBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetSectionBasicBackground.png);
 }
 
 .dtSectionCodeSnippet-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetSectionCodeSnippetBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetSectionCodeSnippetBackground.png);
 }
 
 .dtSlide2ColTextAndImage-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetSlide2ColTextAndImageBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetSlide2ColTextAndImageBackground.png);
 }
 
 .dtSlideWithQuote-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetSlideWithQuoteBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetSlideWithQuoteBackground.png);
 }
 
 .dtStackTabWithContent-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetStackTabWithContentBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetStackTabWithContentBackground.png);
 }
 
 .dtTab-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetTabBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetTabBackground.png);
 }
 
 .dtTabContentBasic-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetTabContentBasicBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetTabContentBasicBackground.png);
 }
 
 .dtTabContentSupportRegions-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetTabContentSupportRegionsBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetTabContentSupportRegionsBackground.png);
 }
 
 .edit-mode .dtCampaign
@@ -9356,7 +9357,7 @@ pre.widget-instructions h2,pre.widget-instructions h3,pre.widget-instructions h4
 
 .site-logo-main
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/Verint-Logo-Blue.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/Verint-Logo-Blue.png);
   background-size: 175px 31px;
   background-position: left center;
 }
@@ -9365,7 +9366,7 @@ pre.widget-instructions h2,pre.widget-instructions h3,pre.widget-instructions h4
 {
   .site-logo-main
   {
-    background-image: url(https://www.verint.com/web_resources/themes/verint/images/Verint-Logo-Blue@2x.png);
+    background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/Verint-Logo-Blue@2x.png);
     background-size: 175px 31px;
   }
 }
@@ -10155,7 +10156,7 @@ button:hover,input[type=submit]:hover
 {
   .flag
   {
-    background-image: url(https://www.verint.com/web_resources/themes/verint/images/flags@2x.png);
+    background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/flags@2x.png);
   }
 }
 
@@ -12515,7 +12516,7 @@ li.hide
   background-repeat: no-repeat;
   background-position: center center;
   color: #fff;
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-graphic-green-left-short.svg?v=2);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-graphic-green-left-short.svg?v=2);
 }
 
 .has-bg .feat-body
@@ -13224,7 +13225,7 @@ li.hide
 
 .dtBackgroundImage-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetBackgroundImageBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetBackgroundImageBackground.png);
 }
 
 .edit-mode .background-area
@@ -13442,7 +13443,7 @@ li.hide
   background-repeat: no-repeat!important;
   background-position: center center!important;
   color: #fff!important;
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-graphic-green-left-short.svg?v=2)!important;
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-graphic-green-left-short.svg?v=2)!important;
 }
 
 .seamless-section
@@ -15495,12 +15496,12 @@ li.hide
 
 .dtMultiboxWithIcon-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetMultiboxWithIconBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetMultiboxWithIconBackground.png);
 }
 
 .dtMultiboxWithImage-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetMultiboxWithImageBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetMultiboxWithImageBackground.png);
 }
 
 .multibox
@@ -15670,7 +15671,7 @@ li.hide
 
 .dtSection2ColMedia-empty-style
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/widgetSection2ColMediaBackground.png);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/widgetSection2ColMediaBackground.png);
 }
 
 .section-2col-media
@@ -15861,8 +15862,8 @@ li.hide
   background-repeat: no-repeat;
   background-position: center center;
   color: #fff;
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-graphic-green-left-short.svg?v=2);
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-graphic-green-left.svg?v=2);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-graphic-green-left-short.svg?v=2);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-graphic-green-left.svg?v=2);
   padding: 80px 0 82px;
 }
 
@@ -15893,22 +15894,22 @@ li.hide
 
 .section-1col-graphic-bg.section-style-greenleft
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-graphic-green-left.svg?v=2);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-graphic-green-left.svg?v=2);
 }
 
 .section-1col-graphic-bg.section-style-greenright
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-graphic-green-right.svg?v=2);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-graphic-green-right.svg?v=2);
 }
 
 .section-1col-graphic-bg.section-style-blueleft
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-graphic-blue-left.svg?v=2);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-graphic-blue-left.svg?v=2);
 }
 
 .section-1col-graphic-bg.section-style-blueright
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-graphic-blue-right.svg?v=2);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-graphic-blue-right.svg?v=2);
 }
 
 .section-1col-graphic-bg .has-ctas .rxbodyfield
@@ -17270,7 +17271,7 @@ hh .feat-cat a:hover
   background-position: 0 0;
   background-repeat: no-repeat;
   background-color: transparent;
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-crop-circle-dark-blue-right.svg?v=2);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-crop-circle-dark-blue-right.svg?v=2);
 }
 
 .section-1col-circle-bg
@@ -17440,9 +17441,9 @@ hh .feat-cat a:hover
   background-repeat: no-repeat;
   background-position: center center;
   color: #fff;
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-graphic-green-left-short.svg?v=2);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-graphic-green-left-short.svg?v=2);
   background-color: #006fff;
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-graphic-blue-right.svg?v=2);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-graphic-blue-right.svg?v=2);
   text-align: center;
 }
 
@@ -18921,7 +18922,7 @@ h2.perc-blog-list-title a:hover,h3.perc-blog-list-title a:hover
   background-repeat: no-repeat;
   background-position: center center;
   color: #fff;
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-graphic-green-left-short.svg?v=2);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-graphic-green-left-short.svg?v=2);
 }
 
 .edit-mode.not-template .layout-support .feat-ctas
@@ -19252,7 +19253,7 @@ h2.perc-blog-list-title a:hover,h3.perc-blog-list-title a:hover
   background-repeat: no-repeat;
   background-position: center center;
   color: #fff;
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-graphic-green-left-short.svg?v=2);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-graphic-green-left-short.svg?v=2);
 }
 
 .edit-mode.not-template .layout-contact .feat-ctas
@@ -19272,7 +19273,7 @@ h2.perc-blog-list-title a:hover,h3.perc-blog-list-title a:hover
 
 .layout-contact .mg-circle
 {
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-crop-circle-blue-right.svg?v=2);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-crop-circle-blue-right.svg?v=2);
 }
 
 .edit-mode .dtSectionCodeSnippet
@@ -21055,7 +21056,7 @@ body .filter-cats a
 .no-image .resource-bg
 {
   background-color: #00ce7e;
-  background-image: url(https://www.verint.com/web_resources/themes/verint/images/bg-graphic-green-left.svg?v=2);
+  background-image: url(https://martindonaghy.github.io/tenant-resources/tenant1/web_resources/themes/verint/images/bg-graphic-green-left.svg?v=2);
 }
 
 .edit-mode .filter-items .perc-list-main
